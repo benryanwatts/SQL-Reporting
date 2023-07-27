@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="LEN_RADIUS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=SROBSQLBIP01;Initial Catalog=LEN_RADIUS</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>d53c3112-96f8-46fa-96b7-7e0efb709c4d</DataSourceID>
+</RptDataSource>
